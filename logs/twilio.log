@@ -1,0 +1,21 @@
+03/03/2021 - 16:42:29 INFO org.springframework.boot.StartupInfoLogger [main] Starting SpringBootTwilioApplication on DESKTOP-MCHN6CF with PID 13348 (C:\Users\bille\Documents\Java\SpringBoot_Twilio\target\classes started by bille in C:\Users\bille\Documents\Java\SpringBoot_Twilio)
+03/03/2021 - 16:42:30 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+03/03/2021 - 16:42:33 INFO com.oozeander.config.TwilioInitializer [main] Twilio initialized -- with trialNumber: 18326376057
+03/03/2021 - 16:42:34 INFO org.springframework.boot.StartupInfoLogger [main] Started SpringBootTwilioApplication in 5.889 seconds (JVM running for 7.153)
+03/03/2021 - 16:43:37 INFO com.oozeander.service.impl.SmsServiceTwilio [http-nio-8080-exec-4] Invalid number !
+03/03/2021 - 16:51:16 INFO org.springframework.boot.StartupInfoLogger [main] Starting SpringBootTwilioApplication on DESKTOP-MCHN6CF with PID 11988 (C:\Users\bille\Documents\Java\SpringBoot_Twilio\target\classes started by bille in C:\Users\bille\Documents\Java\SpringBoot_Twilio)
+03/03/2021 - 16:51:16 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+03/03/2021 - 16:51:19 INFO com.oozeander.config.TwilioInitializer [main] Twilio initialized -- with trialNumber: 18326376057
+03/03/2021 - 16:51:20 INFO org.springframework.boot.StartupInfoLogger [main] Started SpringBootTwilioApplication in 4.951 seconds (JVM running for 6.119)
+03/03/2021 - 16:51:30 INFO com.oozeander.service.impl.SmsServiceTwilio [http-nio-8080-exec-1] Invalid number !
+03/03/2021 - 16:52:34 INFO org.springframework.boot.StartupInfoLogger [main] Starting SpringBootTwilioApplication on DESKTOP-MCHN6CF with PID 5888 (C:\Users\bille\Documents\Java\SpringBoot_Twilio\target\classes started by bille in C:\Users\bille\Documents\Java\SpringBoot_Twilio)
+03/03/2021 - 16:52:34 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+03/03/2021 - 16:52:37 INFO com.oozeander.config.TwilioInitializer [main] Twilio initialized -- with trialNumber: 18326376057
+03/03/2021 - 16:52:37 INFO org.springframework.boot.StartupInfoLogger [main] Started SpringBootTwilioApplication in 4.915 seconds (JVM running for 6.076)
+03/03/2021 - 16:52:48 INFO com.oozeander.service.impl.SmsServiceTwilio [http-nio-8080-exec-2] Invalid number !
+03/03/2021 - 16:53:28 INFO org.springframework.boot.StartupInfoLogger [main] Starting SpringBootTwilioApplication on DESKTOP-MCHN6CF with PID 7548 (C:\Users\bille\Documents\Java\SpringBoot_Twilio\target\classes started by bille in C:\Users\bille\Documents\Java\SpringBoot_Twilio)
+03/03/2021 - 16:53:28 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+03/03/2021 - 16:53:31 INFO com.oozeander.config.TwilioInitializer [main] Twilio initialized -- with trialNumber: 18326376057
+03/03/2021 - 16:53:32 INFO org.springframework.boot.StartupInfoLogger [main] Started SpringBootTwilioApplication in 5.248 seconds (JVM running for 6.621)
+03/03/2021 - 16:53:41 INFO com.oozeander.service.impl.SmsServiceTwilio [http-nio-8080-exec-2] Invalid number !
+03/03/2021 - 16:53:54 INFO com.oozeander.service.impl.SmsServiceTwilio [http-nio-8080-exec-4] SMS sent to +33767841942
